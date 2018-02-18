@@ -1,1 +1,8 @@
-We're going to try to create a model to enter the Dogs vs Cats competition at Kaggle. There are 25,000 labelled dog and cat photos available for training, and 12,500 in the test set that we have to try to label for this competition. According to the Kaggle web-site, when this competition was launched (end of 2013): "State of the art: The current literature suggests machine classifiers can score above 80% accuracy on this task". So if we can beat 80%, then we will be at the cutting edge as of 2013!
+Hi Everybody!
+
+This is my first experience with google colab.
+We are going to create image classification for cats and dogs with CNN's
+
+Still there are some issues that i'm going to fix later.
+
+ENJOY!
